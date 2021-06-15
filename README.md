@@ -37,6 +37,6 @@ TypeScript /// React.js /// styled-components /// Trivia API from https://opentd
 
 This is a small trivia-quiz style question and answer game.
 
-Inspired by Thomas Weiben Falken's tutorial, the main purpose of this app is to keep learning typescript and get fun!
+Inspired by Thomas Weiben Falken's tutorial, the main purpose of this app is to keep learning TypeScript and get fun!
 
 Made by Maures :)
