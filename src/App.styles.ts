@@ -38,13 +38,13 @@ export const Wrapper = styled.div`
 
   h1 {
     font-family: 'Permanent Marker', sans-serif;
-    background-image: linear-gradient(180deg, #fff, #A11D1F);
+    background-image: linear-gradient(180deg, #fff, #a11d1f);
     background-size: 100%;
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     -moz-background-clip: text;
-    -moz-text-fill-color: transparent:
+    -moz-text-fill-color: transparent;
     filter: drop-shadow(2px 2px #0085a3);
     font-size: 70px;
     font-weight: 400;
@@ -52,9 +52,10 @@ export const Wrapper = styled.div`
     margin: 20px;
   }
 
-  .start, .next {
+  .start,
+  .next {
     cursor: pointer;
-    background: linear-gradient(180deg, #ffffff, #5ED0D2);
+    background: linear-gradient(180deg, #ffffff, #5ed0d2);
     border: 2px solid #000000;
     box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.25);
     border-radius: 10px;
@@ -66,5 +67,4 @@ export const Wrapper = styled.div`
   .start {
     max-width: 200px;
   }
-
 `;
