@@ -35,7 +35,7 @@ Languages / Libraries / Technologies / API used in the application:
 
 TypeScript /// React.js /// styled-components /// Trivia API from https://opentdb.com/
 
-This is a small trivia-quiz style question and answer game.
+This is a small trivia-quiz game.
 
 Inspired by Thomas Weiben Falken's tutorial, the main purpose of this app is to keep learning TypeScript and get fun!
 
